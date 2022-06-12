@@ -1,0 +1,29 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.section {
+  width: 1168px;
+}
+.nav-header {
+  display: flex;
+}
+.nav-site {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  align-items: center;
+}
+
+.nav-menu:not(last-child) {
+  margin-right: 40px;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.tel {
+  margin-left: 319px;
+  margin-right: 40px;
+}
